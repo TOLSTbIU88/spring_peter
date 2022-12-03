@@ -10,7 +10,7 @@
  "history" :
   {   
     "created_year": 2019,
-    "mileage": 33000
+    "mileage": 33000,
     "count_owners": 2
   }
 }
@@ -29,8 +29,8 @@
 формат:
 ```
  { "name" : "bmw i320",
-   "milleage": 33000
-   "age_car": 3
+   "milleage": 33000,
+   "age_car": 3,
    "price": 37600
  }
  ```
