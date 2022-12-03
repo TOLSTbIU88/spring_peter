@@ -8,7 +8,8 @@
  "mark": "bmw",
  "model": "i320",
  "history" :
-  {   "created_year": 2019,
+  {   
+    "created_year": 2019,
     "mileage": 33000
     "count_owners": 2
   }
@@ -27,10 +28,10 @@
 5. Имеется возможность получить машину из реестра по id:
 формат:
 ```
- { 'name' : 'bmw i320',
-   'milleage': 33000
-   'age_car': 3
-   'price': 37600
+ { "name" : "bmw i320",
+   "milleage": 33000
+   "age_car": 3
+   "price": 37600
  }
  ```
 
